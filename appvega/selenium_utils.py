@@ -6,6 +6,42 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.remote.webdriver import WebDriver
+from selenium.webdriver.remote.webelement import WebElement
+
+
+def click_element(driver, xpath, timeout=10):
+    """
+    Espera a que un elemento sea clickeable y luego lo hace clic.
+
+    :param driver: Instancia del navegador Selenium.
+    :param xpath: XPATH del elemento a hacer clic.
+    :param timeout: Tiempo máximo de espera en segundos (por defecto 10s).
+    """
+    try:
+        elemento = WebDriverWait(driver, timeout).until(
+            EC.element_to_be_clickable((By.XPATH, xpath)))
+        elemento.click()
+        logging.info(f"✅ Se hizo clic en el elemento: {xpath}")
+    except Exception as e:
+        logging.error(f"❌ Error al hacer clic en el elemento {xpath}: {type(e).__name__} - {e}")
+
+
+def hover_element(driver: WebDriver, element: WebElement) -> None:
+    """
+    Realiza un hover (pasar el cursor) sobre el elemento dado.
+
+    :param driver: Instancia del navegador Selenium.
+    :param element: WebElement al que se le pasará el cursor.
+    """
+    try:
+        actions = ActionChains(driver)
+        actions.move_to_element(element).perform()
+        logging.info("✅ Hover realizado sobre el elemento.")
+    except Exception as e:
+        logging.error(f"❌ Error realizando hover: {e}")
+
 
 # Configuración básica del logging para mostrar mensajes por consola
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
