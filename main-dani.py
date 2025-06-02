@@ -1,5 +1,7 @@
 import requests
 
+from appvega import constans
+
 
 def descargar_imagen(url, nombre_archivo):
     try:
@@ -16,5 +18,9 @@ def descargar_imagen(url, nombre_archivo):
 
 if __name__ == "__main__":
 
-    url = "https://app.vega-lexique.fr/api/files/4c618868-80d7-4e84-9d95-065f2a4d55d7.svg"
-    descargar_imagen(url, "output/imagen_descargada.svg")
+    # url = "https://app.vega-lexique.fr/api/files/4c618868-80d7-4e84-9d95-065f2a4d55d7.svg"
+    # descargar_imagen(url, "output/imagen_descargada.svg")
+
+    driver.find_element(by=By.CLASS_NAME, value=constants.CLASS_OF_DATA)
+    div.find_element(by=By.CLASS_NAME, value=constants.CLASS_OF_INFO).text
+    div.find_element(by=By.CLASS_NAME, value=constants.CLASS_OF_STACK).text
