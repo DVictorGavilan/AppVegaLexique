@@ -20,7 +20,7 @@ def main():
         print("Hover sobre SVG realizado con éxito")
     except Exception as e:
         print(f"Error: {e}")
-    
+
     try:
         # XPath del botón Print dentro del menú que aparece tras el hover
         print_button_xpath = '//div[@class="menu"]//button[contains(.,"Print")]'
