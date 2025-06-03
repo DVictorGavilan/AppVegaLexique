@@ -1,0 +1,174 @@
+[
+  {
+    "id": "ID 2100",
+    "title": "ȝḫ / šȝ",
+    "publication_date": "Published the May 12, 2020 at 11:35",
+    "status": "problematic",
+    "image": "https://app.vega-lexique.fr/api/files/e0bd9c07-d6ed-478c-b9a5-b559a56fbaed.svg",
+    "DE": "(ein Teil des Rindes)",
+    "AR": "(جزء ما من الثور)",
+    "EN": "(a part of the ox)",
+    "FR": "(une partie du bœuf)",
+    "comment": "Attesté uniquement dans l'Onomasticon du Ramesseum (= pRamesseum D = pBerlin ÄM 10495), 309 ; cf. Gardiner, AEO, pl. IVA.Pour l'auteur, lecture incertaine du mot.Pour Hannig (ÄWb II, 2420 {32061}), probable occurrence de šȝ.t « (une partie du cou ?) ».",
+    "referencies": []
+  },
+  {
+    "id": "ID 2101",
+    "title": "w(ȝ)tm",
+    "publication_date": "Published the Jul 27, 2017 at 11:59",
+    "status": "problematic",
+    "image": "https://app.vega-lexique.fr/api/files/0172f8d1-544a-4608-9e69-bde88a48d2f9.svg",
+    "DE": "(Bedeutung unbekannt)",
+    "AR": "(معنى غير معروف)",
+    "EN": "(meaning unknown)",
+    "FR": "(sens inconnu)",
+    "comment": "Verbe. Attesté uniquement dans le pAnastasi I (= pBM EA 10247, ro 7, 3) et ses parallèles : cf. Fischer-Elfert, Die Satirische Streitschrift des Papyrus Anastasi I., KÄT 7, 1983, p. 70. Voir également le commentaire de Fischer-Elfert (Die Satirische Streitschrift des Papyrus Anastasi I. Übersetzung und Kommentar, ÄgAbh 44, 1986, p. 58 et 64-65 [y]).",
+    "referencies": [
+      "Erman (A.), Grapow (H.), Wörterbuch des Ægyptischen Sprache im Auftrage der Deutschen Akademien, Leipzig, 1935-1959 (réimpr. 1971) (5 vol.).",
+      "Lesko (L.H.), A Dictionary of Late Egyptian, 2e éd., Berkeley, 2002-2004 (2 vol.).",
+      null
+    ]
+  },
+  {
+    "id": "ID 2102",
+    "title": "bhȝ",
+    "publication_date": "Published the Jul 6, 2023 at 15:57",
+    "status": "validated",
+    "image": "https://app.vega-lexique.fr/api/files/c2738de1-f835-406f-87f9-c2d347eff148.svg",
+    "DE": "fliehen, aufgeben, kehrt machen",
+    "AR": "هَرَب ، كَفَّ ، تَرَكَ ، رَجِع",
+    "EN": "to flee, to give up, to turn back",
+    "FR": "fuir, abandonner, se retourner, faire demi-tour",
+    "comment": "Au sujet de ce mot, voir Meeks, « Dictionnaires et lexicographie de l’égyptien ancien. Méthodes et résultats », BiOr 56 n°5/6, 1999, col. 579.Cf. bhn « fuir », bhȝ « fuite », bh « (sens inconnu) », bhȝw « réfugié, fuyard », bht « adversaire, ennemi » et sbhȝ « faire fuir ».Voir également jbhȝhjtj / jbhȝhtj / jbhȝtj « (un serpent) ».",
+    "referencies": [
+      "Erman (A.), Grapow (H.), Wörterbuch des Ægyptischen Sprache im Auftrage der Deutschen Akademien, Leipzig, 1935-1959 (réimpr. 1971) (5 vol.).",
+      "Faulkner (R.O.), A Concise Dictionary of Middle Egyptian, Oxford, 1962.",
+      "Wilson (P.), A Ptolemaic Lexicon. A Lexicographical Study of the Texts in the Temple of Edfu, OLA 78, 1997.",
+      "Lesko (L.H.), A Dictionary of Late Egyptian, 2e éd., Berkeley, 2002-2004 (2 vol.).",
+      "Hannig (R.), Ägyptisches Wörterbuch I. Altes Reich und Erste Zwischenzeit (HannLex 4), KAW 98, 2003.",
+      "Hannig (R.), Ägyptisches Wörterbuch II. Mittleres Reich und Zweite Zwischenzeit (HannLex 5), KAW 112, 2006 (2 vol.).",
+      "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+      "Leitz (Chr.) et al., Lexikon der ägyptischen Götter und Götterbezeichnungen, OLA 110-116, 2002 (7 vol.).",
+      null,
+      null
+    ]
+  },
+  {
+    "id": "ID 2103",
+    "title": "ʿwg",
+    "publication_date": "Published the May 12, 2020 at 12:12",
+    "status": "validated",
+    "image": "https://app.vega-lexique.fr/api/files/15a22fe4-b3ae-4020-ba46-e001e15df20c.svg",
+    "DE": "rösten, dörren",
+    "AR": "حَمَّصَ",
+    "EN": "to roast",
+    "FR": "rôtir, torréfier",
+    "comment": "Voir également ʿg.t / ʿg.wt « céréales torréfiées », ʿwg « chaleur (?) », ʿgȝ « rôtir » et ʿwḫ « devenir brûlé ».",
+    "referencies": [
+      "Erman (A.), Grapow (H.), Wörterbuch des Ægyptischen Sprache im Auftrage der Deutschen Akademien, Leipzig, 1935-1959 (réimpr. 1971) (5 vol.).",
+      "Deines (H. von), Westendorf (W.), Wörterbuch der medizinischen Texte, Grundriss der Medizin der Alten Ägypten 7, Berlin, 1961-1962 (2 vol.).",
+      "Faulkner (R.O.), A Concise Dictionary of Middle Egyptian, Oxford, 1962.",
+      "van der Molen (R.), A Hieroglyphic Dictionary of Egyptian Coffin Texts, ProblÄg 15, 2000.",
+      "Hannig (R.), Ägyptisches Wörterbuch II. Mittleres Reich und Zweite Zwischenzeit (HannLex 5), KAW 112, 2006 (2 vol.).",
+      "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+      "Borghouts (J.Fr.), van der Plas (D.), Coffin Texts Word Index, PIREI 6, 1998.",
+      null,
+      null
+    ]
+  },
+  {
+    "id": "ID 2104",
+    "title": "bnn",
+    "publication_date": "Published the May 12, 2020 at 12:13",
+    "status": "validated",
+    "image": "https://app.vega-lexique.fr/api/files/ae10c7f4-85fb-4152-a8c0-957bf71e98d6.svg",
+    "DE": "(die Feinde) übergreifen",
+    "AR": "دَرَأَ ، دَفَعَ (الأعداء)",
+    "EN": "to drive back (foes)",
+    "FR": "refouler (les ennemis)",
+    "comment": "Cf. bnn « déborder ; gonfler ».",
+    "referencies": [
+      "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+      "Leitz (Chr.) et al., Lexikon der ägyptischen Götter und Götterbezeichnungen, OLA 110-116, 2002 (7 vol.).",
+      null
+    ]
+  },
+  {
+    "id": "ID 2105",
+    "title": "ȝḫ",
+    "publication_date": "Published the May 12, 2020 at 12:13",
+    "status": "problematic",
+    "image": "https://app.vega-lexique.fr/api/files/567c0fbc-2b20-43c8-9daf-855cbe1a9227.svg",
+    "DE": "Überfluss",
+    "AR": "فَيَضَان",
+    "EN": "flood",
+    "FR": "inondation",
+    "comment": "Attesté uniquement en CT VII, 118f [914] (B1C).La version D1C donne wȝḫ « verdure, végétation ; inondation ».",
+    "referencies": [
+      null
+    ]
+  },
+  {
+    "id": "ID 2106",
+    "title": "psḏ",
+    "publication_date": "Published the May 12, 2020 at 12:28",
+    "status": "validated",
+    "image": "https://app.vega-lexique.fr/api/files/a8b42b80-a670-413c-8c7f-742fadd4400f.svg",
+    "DE": "Kielbogen",
+    "AR": "شـَلـَمان ، إطرَبل ، الخشبة الرئيسية التي تحمل ضلوع المركب ، العمود الفقري للمركب",
+    "EN": "hogging-beam",
+    "FR": "arc de la carène",
+    "comment": "Le mot signifie « l'épine dorsale » du bateau et dérive du substantif psḏ / psḏ.t / psd « dos, colonne vertébrale ».",
+    "referencies": [
+      "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+      null
+    ]
+  },
+  {
+    "id": "ID 2107",
+    "title": "wȝṯ / wṯ",
+    "publication_date": "Published the Jul 27, 2017 at 11:59",
+    "status": "problematic",
+    "image": "https://app.vega-lexique.fr/api/files/f3c94aa2-9526-43b4-b175-6abb5d4deffa.svg",
+    "DE": "(Bedeutung unbekannt)",
+    "AR": "(معنى غير معروف)",
+    "EN": "(meaning unknown)",
+    "FR": "(sens inconnu)",
+    "comment": "Substantif. Attesté uniquement dans le pBM EA 10068, ro 3, 7 et 6, 5 (cf. Peet, The Great Tomb-Robberies of the Twentieth Egyptian Dynasty, Oxford, 1930 [réimpr. Hildesheim, New York, 1977], p. 89, 92 et 100, n. 12 ainsi que pl. X et XII).",
+    "referencies": [
+      "Lesko (L.H.), A Dictionary of Late Egyptian, 2e éd., Berkeley, 2002-2004 (2 vol.)."
+    ]
+  },
+  {
+    "id": "ID 2108",
+    "title": "wȝdw",
+    "publication_date": "Published the Apr 1, 2020 at 18:14",
+    "status": "validated",
+    "image": "https://app.vega-lexique.fr/api/files/a3f77a45-669a-4af3-a35f-85192655a8f8.svg",
+    "DE": "(eine Pflanze)",
+    "AR": "(نَبَات ما)",
+    "EN": "(a plant)",
+    "FR": "(une plante)",
+    "comment": "Attesté uniquement dans pEbers 77, 14 [Eb 511] ; cf. Grundriss 5, p. 133.Voir aussi Bardinet, Les papyrus médicaux de l'Égypte pharaonique, Paris, 1995, p. 338 et Westendorf, Handbuch Medizin, p. 651.",
+    "referencies": [
+      "Erman (A.), Grapow (H.), Wörterbuch des Ægyptischen Sprache im Auftrage der Deutschen Akademien, Leipzig, 1935-1959 (réimpr. 1971) (5 vol.).",
+      "Deines (H. von), Grapow (H.), Wörterbuch der ägyptischen Drogennamen, Grundriss der Medizin der Alten Ägypten 6, Berlin, 1959.",
+      "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.)."
+    ]
+  },
+  {
+    "id": "ID 2109",
+    "title": "bnnw.t",
+    "publication_date": "Published the May 12, 2020 at 12:29",
+    "status": "problematic",
+    "image": "https://app.vega-lexique.fr/api/files/af8111ba-3e7f-4b92-8d8c-9eac0067a6a6.svg",
+    "DE": "Zeugungskraft",
+    "AR": "قُدرة تَنَاسُلِيّة ، قُدرة إنجابية",
+    "EN": "procreative force",
+    "FR": "puissance procréatrice",
+    "comment": "Attesté uniquement dans les Aventures de Sinouhé, dans la version préservée sur l'oAshmolean Museum 1945.40, vo, 13 (Koch, Die Erzählung des Sinuhe, BiAeg 17, 1990, p. 61, 10). La version parallèle pBerlin 3022, 190 (ibid, p. 61, 9) donne bȝȝw.t « virilité, puissance sexuelle ».Cf. également bnn « semence ».",
+    "referencies": [
+      null
+    ]
+  }
+]

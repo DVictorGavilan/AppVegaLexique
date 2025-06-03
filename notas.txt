@@ -1,0 +1,17 @@
+Todas las modificaciones que solicitas son viables de aplicar.
+
+¿Te encaja que la estructura final de la tabla quede con las siguientes columnas?
+- ID
+- Palabra
+- Fecha de Publicación
+- Estado de Verificación (validated, problematic y wrong)
+- URL a la imágen
+- EN
+- FR
+- Comentario
+- Fuente de Transliteración
+
+Te adjunto en la pestaña "output version 2" del Excel, 300 registros de cómo quedaría esta extracción y una captura de la misma.
+
+Si te encaja la solución y
+
