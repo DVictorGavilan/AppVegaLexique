@@ -68,7 +68,7 @@ def main(target_url):
         "title": title,
         "publication_date": publication_date,
         "status": status,
-        "image": f"https://app.vega-lexique.fr/{url}",  #Hieroglyphic spellings
+        "image": f"https://app.vega-lexique.fr/{url}",
         "DE": translations[0].text,
         "AR": translations[1].text,
         "EN": translations[2].text,
