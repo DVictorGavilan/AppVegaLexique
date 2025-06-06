@@ -11,21 +11,22 @@ from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 
 
-def click_element(driver, xpath, timeout=10):
+def click_element(driver, by_selector, locator, timeout=10):
     """
     Espera a que un elemento sea clickeable y luego lo hace clic.
 
     :param driver: Instancia del navegador Selenium.
-    :param xpath: XPATH del elemento a hacer clic.
+    :param by_selector: Tipo de selector (e.g., By.XPATH, By.CLASS_NAME).
+    :param locator: Valor del selector (string).
     :param timeout: Tiempo máximo de espera en segundos (por defecto 10s).
     """
     try:
         elemento = WebDriverWait(driver, timeout).until(
-            EC.element_to_be_clickable((By.XPATH, xpath)))
+            EC.element_to_be_clickable((by_selector, locator)))
         elemento.click()
-        logging.info(f"✅ Se hizo clic en el elemento: {xpath}")
+        logging.info(f"✅ Se hizo clic en el elemento: {by_selector} = {locator}")
     except Exception as e:
-        logging.error(f"❌ Error al hacer clic en el elemento {xpath}: {type(e).__name__} - {e}")
+        logging.error(f"❌ Error al hacer clic en el elemento {by_selector} = {locator}: {type(e).__name__} - {e}")
 
 
 def hover_element(driver: WebDriver, element: WebElement) -> None:
