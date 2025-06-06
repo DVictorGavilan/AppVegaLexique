@@ -1,0 +1,126 @@
+[
+  {
+    "id": "ID 5668",
+    "title": "nmʿ",
+    "publication_date": "Published the Mar 11, 2020 at 16:54",
+    "status": "validated",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/1a318e7f-f480-42cd-a4ee-03977d171570.svg",
+      "https://app.vega-lexique.fr/api/files/361df9fe-8a99-4cee-9457-b2865a61118d.svg"
+    ],
+    "DE": "beziehen (des Bettes); verkleiden (der Mauern)",
+    "AR": "كسا (الأرضية ، الحائط)",
+    "EN": "to cover (a bed, walls)",
+    "FR": "recouvrir (un sol) ; parementer (un mur)",
+    "comment": "N/A",
+    "DICTIONARIES": [
+      [
+        "Erman (A.), Grapow (H.), Wörterbuch des Ægyptischen Sprache im Auftrage der Deutschen Akademien, Leipzig, 1935-1959 (réimpr. 1971) (5 vol.).",
+        "Lesko (L.H.), A Dictionary of Late Egyptian, 2e éd., Berkeley, 2002-2004 (2 vol.)."
+      ]
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      [
+        "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+        "Wd (s. v.)",
+        "TLA (Lemma n°)"
+      ]
+    ],
+    "DEMOTIC AND COPTIC": [
+      [
+        "Johnson (J.) (éd.), The Demotic Dictionary of the Oriental Institute of the University of Chicago, Chicago, 2002."
+      ]
+    ],
+    "FURTHER REFERENCES": [
+      []
+    ]
+  },
+  {
+    "id": "ID 5669",
+    "title": "nmʿ",
+    "publication_date": "Published the Mar 11, 2020 at 11:51",
+    "status": "problematic",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/2df3e3b8-7638-49a4-a06e-6d725c4c1b9f.svg"
+    ],
+    "DE": "Passage (?), Korridor (?)",
+    "AR": "ممر (؟) ، دِهْلِيز (؟)",
+    "EN": "shelter (?), passage (?)",
+    "FR": "passage (?), corridor (?)",
+    "comment": "Sur ce terme, voir Simpson, Papyrus Reisner III, p. 19, n. 7.Cf. nmʿ « se montrer partial » et nmʿ « (sens inconnu) ».",
+    "DICTIONARIES": [
+      [
+        "van der Molen (R.), A Hieroglyphic Dictionary of Egyptian Coffin Texts, ProblÄg 15, 2000.",
+        "Hannig (R.), Ägyptisches Wörterbuch II. Mittleres Reich und Zweite Zwischenzeit (HannLex 5), KAW 112, 2006 (2 vol.)."
+      ]
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      [
+        "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+        "Borghouts (J.Fr.), van der Plas (D.), Coffin Texts Word Index, PIREI 6, 1998.",
+        "Wd (s. v.)",
+        "TLA (Lemma n°)"
+      ]
+    ],
+    "FURTHER REFERENCES": [
+      []
+    ]
+  },
+  {
+    "id": "ID 5670",
+    "title": "nmʿ",
+    "publication_date": "Published the May 17, 2021 at 16:01",
+    "status": "validated",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/570d28bd-1893-4e40-8b92-f3dde8186877.svg",
+      "https://app.vega-lexique.fr/api/files/f6ee6245-5e14-4e0b-92c7-109bb1606f85.svg"
+    ],
+    "DE": "parteisch sein",
+    "AR": "أصبح متحزباً ، تحزّب",
+    "EN": "to be partial",
+    "FR": "se montrer partial",
+    "comment": "Surtout en relation avec un jugement.Cf. nmʿ « partial » et nmʿ « passage (?), corridor (?) ».",
+    "DICTIONARIES": [
+      [
+        "Erman (A.), Grapow (H.), Wörterbuch des Ægyptischen Sprache im Auftrage der Deutschen Akademien, Leipzig, 1935-1959 (réimpr. 1971) (5 vol.).",
+        "Faulkner (R.O.), A Concise Dictionary of Middle Egyptian, Oxford, 1962.",
+        "Wilson (P.), A Ptolemaic Lexicon. A Lexicographical Study of the Texts in the Temple of Edfu, OLA 78, 1997.",
+        "Lesko (L.H.), A Dictionary of Late Egyptian, 2e éd., Berkeley, 2002-2004 (2 vol.).",
+        "Hannig (R.), Ägyptisches Wörterbuch I. Altes Reich und Erste Zwischenzeit (HannLex 4), KAW 98, 2003.",
+        "Hannig (R.), Ägyptisches Wörterbuch II. Mittleres Reich und Zweite Zwischenzeit (HannLex 5), KAW 112, 2006 (2 vol.)."
+      ]
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      [
+        "Meeks (D.), Année Lexicographique. Égypte ancienne, 2e éd., Paris, 1998 (3 vol.).",
+        "Borghouts (J.Fr.), van der Plas (D.), Coffin Texts Word Index, PIREI 6, 1998.",
+        "Wd (s. v.)",
+        "TLA (Lemma n°)"
+      ]
+    ],
+    "FURTHER REFERENCES": [
+      []
+    ]
+  },
+  {
+    "id": "ID 5671",
+    "title": "nmʿ",
+    "publication_date": "Published the Mar 11, 2020 at 11:53",
+    "status": "validated",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/124ead2d-2e4d-4323-bb57-b4d739df9d67.svg",
+      "https://app.vega-lexique.fr/api/files/411ae9b4-40db-45f5-8e94-e408c570d9a3.svg"
+    ],
+    "DE": "Parteischer",
+    "AR": "مُتَحَزِّب ، مُتَحَيِّز",
+    "EN": "partial",
+    "FR": "partial",
+    "comment": "Substantif.Dérivé de nmʿ « se montrer partial ».",
+    "DICTIONARIES": [
+      [
+        "Hannig (R.), Ägyptisches Wörterbuch I. Altes Reich und Erste Zwischenzeit (HannLex 4), KAW 98, 2003.",
+        "Hannig (R.), Ägyptisches Wörterbuch II. Mittleres Reich und Zweite Zwischenzeit (HannLex 5), KAW 112, 2006 (2 vol.)."
+      ]
+    ]
+  }
+]

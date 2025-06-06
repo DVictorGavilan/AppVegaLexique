@@ -46,18 +46,36 @@ def main(target_url):
     stack = div.find_element(by=By.CLASS_NAME, value=constants.CLASS_OF_STACK)
     entry = stack.find_elements(by=By.TAG_NAME, value="div")  # deben obtenerse 5
     title = entry[0].find_element(by=By.CLASS_NAME, value="entry-transliteration").text
-    style = entry[0].find_element(by=By.CLASS_NAME, value="graphy-image-bg").get_attribute("style")
-    # Extrae la URL del estilo CSS
-    inicio = style.find('url("') + 5
-    fin = style.find('")')
-    url = style[inicio:fin]
+    images = []
+    list_of_images_raw = driver.find_element(By.CLASS_NAME, value="entry-main-graphies")
+    list_of_images = list_of_images_raw.find_elements(By.CLASS_NAME, "graphy-image-bg")
+    for image in list_of_images:
+        style_attr = image.get_attribute("style")
+        inicio = style_attr.find('url("') + 5
+        fin = style_attr.find('")')
+        partial_url = style_attr[inicio:fin]
+        full_image_url = f"https://app.vega-lexique.fr/{partial_url}"
+        print(f"URL de imagen: {full_image_url}")
+        images.append(full_image_url)
     # print(url)
     translations = stack.find_elements(by=By.CLASS_NAME, value="entry-nuance")  # debe haber 4
-    labels = stack.find_elements(by=By.CLASS_NAME, value="entry-dictionary-label")
-    values = stack.find_elements(by=By.CLASS_NAME, value="entry-dictionary-value")
-    # print(labels)
-    dictionary = {label.text: value.text for label, value in zip(labels, values)}
-    referencies = [dictionary_translations.get(label.text) for label in labels]
+
+    extra_infos = stack.find_elements(by=By.CLASS_NAME, value="entry-dictionary-group")
+    out_info = {}
+    for extra_info in extra_infos:
+        title_extra_info = extra_info.find_element(by=By.CLASS_NAME, value="entry-dictionary-group-title")
+        labels = extra_info.find_elements(by=By.CLASS_NAME, value="entry-dictionary-label")
+        values = extra_info.find_elements(by=By.CLASS_NAME, value="entry-dictionary-value")
+        # print(labels)
+        # dictionary = {label.text: value.text for label, value in zip(labels, values)}
+        detail = []
+        for label in labels:
+            if label.text in dictionary_translations.keys():
+                detail.append(dictionary_translations.get(label.text))
+            else:
+                detail.append(label.text)
+        out_info[title_extra_info.text] = [detail]
+
     try:
         comment = stack.find_element(by=By.ID, value="comments").text
     except:
@@ -68,16 +86,16 @@ def main(target_url):
         "title": title,
         "publication_date": publication_date,
         "status": status,
-        "image": f"https://app.vega-lexique.fr/{url}",
+        "image": images,
         "DE": translations[0].text,
         "AR": translations[1].text,
         "EN": translations[2].text,
         "FR": translations[3].text,
-        "comment": comment[8:].replace("\n", ""),
-        "referencies": referencies
+        "comment": comment[8:].replace("\n", "")
+        # "referencies": referencies
     }
     # print(data)
-    # data.update(dictionary)
+    data.update(out_info)
     return data
 
     time.sleep(2)
@@ -85,8 +103,8 @@ def main(target_url):
 
 if __name__ == "__main__":
     vega_raw = []
-    inicial = 10200
-    final = 10300
+    inicial = 5668
+    final = 5672
     for i in range(inicial, final):
         try:
             _ = main(f"https://app.vega-lexique.fr/?entries=w{i}")
