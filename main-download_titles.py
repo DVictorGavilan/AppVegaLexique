@@ -1,6 +1,6 @@
 import time
 from selenium.webdriver.common.by import By
-from appvega.selenium_utils import start_browser, click_element
+from appvega.utils import start_browser, click_element
 
 
 def main_downloads_titles(target_url):

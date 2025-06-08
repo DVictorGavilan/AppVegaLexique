@@ -1,0 +1,2458 @@
+[
+  {
+    "id": "1",
+    "transliteration": "jntš",
+    "publication_date": "Published the Jan 9, 2025 at 14:05",
+    "status": "validated",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/7b7e820f-e224-4dab-87dc-9491db593d25.svg",
+      "https://app.vega-lexique.fr/api/files/a414f1c3-2883-49fe-8641-11cc8b54dd0a.svg"
+    ],
+    "DE": "intech-Tier",
+    "AR": "حيوان اينتش",
+    "EN": "intech-animal",
+    "FR": "animal-intech",
+    "times": [
+      "19th dyn",
+      "27th dyn",
+      "30th dyn",
+      "Ptolemaic Dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 102, 12"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.0386"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 402a-b"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "28010"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "2",
+    "transliteration": "fȝ-tȝ",
+    "publication_date": "Published the Feb 27, 2024 at 11:45",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/fc0d3310-f980-4f93-8421-2aec763205fd.svg"
+    ],
+    "DE": "Korb (um die Erde zu transportieren)",
+    "AR": "قُفة من الخوص (لنقل التربة)",
+    "EN": "basket (for carrying the earth)",
+    "FR": "corbeille (pour transporter de la terre)",
+    "times": [
+      "12th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "3",
+    "transliteration": "wfȝ",
+    "publication_date": "Published the Jan 15, 2024 at 17:29",
+    "status": "validated",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/eaf187a9-4b1c-445f-9e92-26151a630def.svg",
+      "https://app.vega-lexique.fr/api/files/426cdd75-8478-4295-9774-b3887632b418.svg"
+    ],
+    "DE": "Lunge",
+    "AR": "رئة",
+    "EN": "lung",
+    "FR": "poumon",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 306, 3"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "183"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "60"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 99"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "92"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "660 {7404}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0909"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "68"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "118"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "wfȝ"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "45860"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "87"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "W, 19-20 (wef), 78 (wfʿ)"
+      },
+      {
+        "label": "Crum, CD",
+        "value": "505a-b"
+      },
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "283"
+      },
+      {
+        "label": "Černý, CED",
+        "value": "222"
+      },
+      {
+        "label": "Vycichl, DELC",
+        "value": "241"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "4",
+    "transliteration": "fȝj",
+    "publication_date": "Published the May 13, 2020 at 11:43",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/3ab8214f-5b45-4c72-b3da-5a52072e2569.svg",
+      "https://app.vega-lexique.fr/api/files/5a3a9687-5df2-42c8-8b5d-e935f02ae384.svg"
+    ],
+    "DE": "wägen",
+    "AR": "وَزَنَ",
+    "EN": "to weigh ",
+    "FR": "peser",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 573, 15-19"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "97"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 189"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "145"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "487 {11637}, {11640-11641}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "963 {11637}, {11640}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.1538"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "fȝj"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "63480"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "5",
+    "transliteration": "jȝ",
+    "publication_date": "Published the May 13, 2020 at 11:43",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/52c7586f-76a4-4071-91d1-795748b88e7d.svg",
+      "https://app.vega-lexique.fr/api/files/a7dafa14-f911-446e-840c-fa6b5058fc80.svg"
+    ],
+    "DE": "weit schreiten",
+    "AR": "مَشَى بِخَطَوات كبيرة",
+    "EN": "to stride",
+    "FR": "marcher à grands pas",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 26, 1-2"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "11"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "64 {637-638}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.0121"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "9"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 91a"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "20080"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "6",
+    "transliteration": "jʿḥ",
+    "publication_date": "Published the Feb 22, 2024 at 11:32",
+    "status": "validated",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/42afa7c5-abb6-48d2-acfa-5ad3671b2286.svg",
+      "https://app.vega-lexique.fr/api/files/b63299e7-6ea7-4679-b21d-4a512585aa16.svg"
+    ],
+    "DE": "Mond",
+    "AR": "قمر",
+    "EN": "moon",
+    "FR": "lune",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 42, 7-9"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "25"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "11"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "45"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 17"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "19-20 ; 50"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "42 {1039}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "108 {1039}, {49788}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0172 ; 78.0196 ; 79.0112"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "14"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "23"
+      },
+      {
+        "label": "DendTrad I",
+        "value": "244"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "371"
+      },
+      {
+        "label": "DendTrad III",
+        "value": "352"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "475"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 146c-151a"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "20"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "jʿḥ ; ...jʿḥ"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "21810 ; 21840 (jʿḥ-wr) ; 850332 (Jʿḥ-wr) ; 850333 (Jʿḥ) ; 854873 (jʿḥ-n-tȝ.w-nb.w) ; 862813 (Jʿḥ-Ḏḥw.tj)"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "19"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "Ỉ, 41-42"
+      },
+      {
+        "label": "Crum, CD",
+        "value": "257b-258a"
+      },
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "16 ; 142"
+      },
+      {
+        "label": "Černý, CED",
+        "value": "123"
+      },
+      {
+        "label": "Vycichl, DELC",
+        "value": "69 ; 156"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "7",
+    "transliteration": "ȝd",
+    "publication_date": "Published the May 13, 2020 at 11:41",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/f8b5b151-e9a8-4353-a731-e9473cc70963.svg"
+    ],
+    "DE": "verwesen (?)",
+    "AR": "فَسَدَ (؟)",
+    "EN": "to decay (?)",
+    "FR": "pourrir (?)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 24, 24"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "7"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "10"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "51 {601}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "7"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "348"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "transliteration": "ʿnḫ",
+    "publication_date": "Published the Apr 27, 2017 at 10:32",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/62c7713b-54f5-4312-9056-07836af0dc23.svg",
+      "https://app.vega-lexique.fr/api/files/efebe131-4694-412b-8b0b-942aa9a8b0a6.svg"
+    ],
+    "DE": "Spiegel",
+    "AR": "مرآة",
+    "EN": "mirror",
+    "FR": "miroir",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 204, 11-14"
+      },
+      {
+        "label": "Grundriss 6",
+        "value": "98"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "44"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "160"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 70"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "278 {5468-5469}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "541-542 {5468-5470}, {48934-48935}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0678 ; 79.0499"
+      },
+      {
+        "label": "DendTrad I",
+        "value": "275"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "420"
+      },
+      {
+        "label": "DendTrad III",
+        "value": "393"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "532"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "83-84"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ʿnḫ"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "38630"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "64"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "ʿ 90-91"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "9",
+    "transliteration": "ȝd.t",
+    "publication_date": "Published the May 12, 2017 at 16:01",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/7cde9899-0718-485d-8400-002a0488633b.svg",
+      "https://app.vega-lexique.fr/api/files/55f69d98-2378-4906-ad4b-c7fd018baceb.svg"
+    ],
+    "DE": "(eine Augenkrankheit)",
+    "AR": "(احدى أمراض العيون)",
+    "EN": "(an eye disease)",
+    "FR": "(une maladie des yeux)",
+    "times": [
+      "18th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 24, 25"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "15"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "352"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "10",
+    "transliteration": "ȝd",
+    "publication_date": "Published the May 30, 2017 at 15:40",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/ae9f9d4c-d218-4118-80da-3f499d425f33.svg"
+    ],
+    "DE": "Mattigkeit (vom Herz)",
+    "AR": "تعب ، ضعف (خاص بالقلب)",
+    "EN": "weakness (of the heart)",
+    "FR": "fatigue, faiblesse (à propos du cœur)",
+    "times": [
+      "18th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Grundriss 7",
+        "value": "15"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "11",
+    "transliteration": "ȝhd / ȝht",
+    "publication_date": "Published the May 13, 2020 at 11:41",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/fb3f32c9-00a7-447c-a452-4bca3deb02be.svg",
+      "https://app.vega-lexique.fr/api/files/a94a286e-7f7d-4472-8374-78ecdf0138f3.svg"
+    ],
+    "DE": "schwach sein; zittern",
+    "AR": "ضَعُفَ ؛ اِرتَعَشَ",
+    "EN": "to be weak; to quiver",
+    "FR": "s'affaiblir ; trembler",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 12, 9"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "4"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 6"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "5 (ȝhd) ; 5 (ȝhḏ)"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "21 {311}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0063 ; 78.0052"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "3"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 22b"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝhd"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "181 ; 184"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "569"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "12",
+    "transliteration": "j",
+    "publication_date": "Published the May 30, 2017 at 15:41",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/6c7ba55a-9619-4163-b64a-feb4368d4d13.svg",
+      "https://app.vega-lexique.fr/api/files/6eae80df-0fb3-43ed-bbc1-eaa5710f154f.svg"
+    ],
+    "DE": "Oh (Interjektion)",
+    "AR": "يا (النداء)",
+    "EN": "O (interjection)",
+    "FR": "Ô (interjection)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 25"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "16"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "7"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "11"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "24-26 {624-625}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "57-63 {624-625}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0108 ; 78.0118 ; 79.0069"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "9"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "16"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "366"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "470"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "j"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "20030"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "15 ; 18"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "Ȝ, 1 ; Ỉ, 1-3, 52, 55"
+      },
+      {
+        "label": "Crum, CD",
+        "value": "66b"
+      },
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "cf. 554"
+      },
+      {
+        "label": "Černý, CED",
+        "value": "42"
+      },
+      {
+        "label": "Vycichl, DELC",
+        "value": "cf. 52"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "13",
+    "transliteration": "fjṯ",
+    "publication_date": "Published the Jun 25, 2018 at 9:23",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/8b54220c-882f-49b2-ba55-594f7afa5f60.svg",
+      "https://app.vega-lexique.fr/api/files/abb05cad-b00e-40ad-9574-b8f640143cec.svg"
+    ],
+    "DE": "verlachen, für nichts achten ",
+    "AR": "سخر ، احتقر ؛ تجاهل   ",
+    "EN": "to deride, to be scornful",
+    "FR": "se moquer, mépriser ; se montrer négligent",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 576, 4-5"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 164"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.1570"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "63740"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "14",
+    "transliteration": "ʿ-nb",
+    "publication_date": "Published the Apr 27, 2017 at 10:39",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/5f704d61-08cf-4657-80f5-78c513b16a11.svg"
+    ],
+    "DE": "jeder Hand (jedermann)",
+    "AR": "كل يد (الجميع، كل الناس)",
+    "EN": "every hand (every one)",
+    "FR": "chaque main (tout le monde)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wilson, PL",
+        "value": "131"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "transliteration": "fnw",
+    "publication_date": "Published the Jun 22, 2023 at 11:23",
+    "status": "wrongGraphy",
+    "category": "Uncertain",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/c066800a-bc49-4ff0-8abd-aee1ffff8b19.svg"
+    ],
+    "DE": "—",
+    "AR": "—",
+    "EN": "—",
+    "FR": "—",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "van der Molen, HDECT",
+        "value": "146"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "transliteration": "ȝw",
+    "publication_date": "Published the Apr 27, 2017 at 10:41",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/4071b9a3-7a3b-4ca1-84c0-8d0483a6c64c.svg"
+    ],
+    "DE": "(Bedeutung unbekannt)",
+    "AR": "(معنى غير معروف)",
+    "EN": "(meaning unknown)",
+    "FR": "(sens inconnu)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "858408"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "transliteration": "ȝjr.wy / ȝj.wy",
+    "publication_date": "Published the Feb 8, 2024 at 11:16",
+    "status": "problematic",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/b3144882-a6ae-445c-a4ae-ef2108a14ec1.svg",
+      "https://app.vega-lexique.fr/api/files/0e477d97-23c1-4926-aca9-78d768b82ca3.svg"
+    ],
+    "DE": "Binden-Paar",
+    "AR": "ضمادتان",
+    "EN": "pair of bandages",
+    "FR": "paire de bandages",
+    "times": [
+      "18th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 2, 8 (ȝj)"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "1-2 (ȝj.wj)"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0004 ; 77.0006"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "10 (ȝj.wj) ; 157 (ȝr.wj)"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "2 ; 7 ; 55"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "Ȝ, 4, 52 ; ʿ, 36"
+      },
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "290"
+      },
+      {
+        "label": "Vycichl, DELC",
+        "value": "249"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "18",
+    "transliteration": "ȝr.w",
+    "publication_date": "Published the Apr 27, 2017 at 10:43",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/5531f1da-33d3-465b-9df7-26fc6749189b.svg"
+    ],
+    "DE": "Gürtel (?)",
+    "AR": "أحزمة (؟)",
+    "EN": "belts (?)",
+    "FR": "ceinturons (?)",
+    "times": [
+      "6th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0006"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "transliteration": "ȝjw",
+    "publication_date": "Published the Apr 27, 2017 at 10:44",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/e5ed3040-8584-4195-b962-fcf7f156cbf3.svg"
+    ],
+    "DE": "Wind (?)",
+    "AR": "ريح (؟)",
+    "EN": "wind (?)",
+    "FR": "vent (?)",
+    "times": [
+      "18th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Faulkner, CD",
+        "value": "327"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.0004"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝjw"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "9"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "20",
+    "transliteration": "ʿ",
+    "publication_date": "Published the Mar 5, 2025 at 15:07",
+    "status": "validated",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/d2545833-dda0-4895-9983-c1e0d1df9587.svg",
+      "https://app.vega-lexique.fr/api/files/ed4d2e44-f6b1-482d-8a01-33a4377c85f2.svg"
+    ],
+    "DE": "Arm, Hand",
+    "AR": "ذراع، يد",
+    "EN": "arm, hand",
+    "FR": "bras, main",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 156, 1-157, 10"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "113-116"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "36"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "131"
+      },
+      {
+        "label": "Kahl, FWb",
+        "value": "68-69"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 57"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "63"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "247-250 {4473}, {4478}, {4480}, {4492-4493}, {4495}, {4504-4505}, {4516}, {4519}, {46889}, {46295}, {46376}, {46991}, {47346}, {47412-47413}, {47805}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "459-467 {4473}, {4478-4480}, {4482}, {4492}, {4493}, {4504-4505}, {4508}, {4510}, {4514}, {4516}, {4518-4519}, {46295}, {46376}, {46991}, {46889}, {47346}, {48528}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0540 ; 78.0594 ; 79.0397"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "47 (ʿ), 48 (ʿ.wy), 48 (jmy.t-ʿ)"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "73 (ʿ), 73 (ʿ.wy), 73 (jrj ʿ)"
+      },
+      {
+        "label": "DendTrad I",
+        "value": "269"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "409"
+      },
+      {
+        "label": "DendTrad III",
+        "value": "384"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "519-520"
+      },
+      {
+        "label": "LGG",
+        "value": "II, 1a-8a"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "68-69"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ʿ"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "34320 ; 500715 (ʿ-fȝw) ; 853005 (ʿ-ḥqȝt) ; 853006 (ʿ-Nmtj) ; 856468 (ʿ-m-ʿ) ; 860863 (ʿ-ḫʿ-stj)"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "52 (ʿ.wj)"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "ʿ, 5-6 (ʿ.wy)"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "21",
+    "transliteration": "ȝwj / ȝw",
+    "publication_date": "Published the Feb 17, 2025 at 11:45",
+    "status": "validated",
+    "category": "Adjective\nVerb",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/ccab48d4-cacb-4cf7-9503-c0f9541e2a8b.svg",
+      "https://app.vega-lexique.fr/api/files/15675111-0d85-4852-9c27-4bd72a2211ba.svg"
+    ],
+    "DE": "lang sein, weit sein; lang, weit",
+    "AR": "طال ، تمدد  ",
+    "EN": "to be long, to be wide; long, wide",
+    "FR": "se montrer long, s'allonger ; long",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 3, 12-4, 9"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "1"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "1-2"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 2"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "1-2"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "3 {91} ; 4 {119}(ȝwtj-šwtj) ; 1582 {46958}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "6 {91} ; 10 {119} (ȝwtj-šwtj)"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0015 ; 78.0009 ; 79.0007"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "1"
+      },
+      {
+        "label": "DendTrad I",
+        "value": "235"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 2a-6c"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "1"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝwj"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "33 ; 49 ; 50 ; 78 ; 400588 ; 858527"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "56-57"
+      },
+      {
+        "label": "Johnson, CDD",
+        "value": "Ȝ, 5-6, 7 ; Ỉ, 3 ; ʿ, 46"
+      },
+      {
+        "label": "Crum, CD",
+        "value": "533a"
+      },
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "296"
+      },
+      {
+        "label": "Černý, CED",
+        "value": "230-231"
+      },
+      {
+        "label": "Vycichl, DELC",
+        "value": "18 ; 251"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "22",
+    "transliteration": "ʿ",
+    "publication_date": "Published the May 12, 2017 at 16:04",
+    "status": "wrong",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/b2a44732-0c0c-4757-8313-f9fde0518644.svg"
+    ],
+    "DE": "Arm",
+    "AR": "ذراع",
+    "EN": "Arm",
+    "FR": "Bras",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "79.0399"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "34530"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "transliteration": "ʿ.wy",
+    "publication_date": "Published the May 30, 2017 at 15:54",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/cfb1309c-6ccd-4fea-bfe5-19e7529ac4fd.svg"
+    ],
+    "DE": "Klappern",
+    "AR": "ناقوس ، دُف",
+    "EN": "clappers",
+    "FR": "claquoirs",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "79.0398"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "34590"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "24",
+    "transliteration": "ʿ-n(y)-jr",
+    "publication_date": "Published the May 30, 2017 at 15:55",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/abba4bd0-d0a5-40c5-81a7-e6ff2c40f121.svg",
+      "https://app.vega-lexique.fr/api/files/8c6e636d-f186-4491-9b0e-3728ffafe79d.svg"
+    ],
+    "DE": "Palette",
+    "AR": "صلاية",
+    "EN": "palette",
+    "FR": "palette",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wilson, PL",
+        "value": "131"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Wd (s. v.)",
+        "value": "ʿ"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "859502"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "25",
+    "transliteration": "ȝw",
+    "publication_date": "Published the Jun 25, 2018 at 9:46",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/40b49602-d3ba-4327-b2af-bbec41273df9.svg"
+    ],
+    "DE": "(jemanden) anmelden (?)",
+    "AR": "أعلن (عن أحد) (؟)",
+    "EN": "to announce (someone) (?)",
+    "FR": "annoncer (quelqu'un) (?)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 5, 12"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "cf. 1 (ȝwy)"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "2 {75}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "52"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "transliteration": "ʿ-n(y)-ḫ.t-nṯr",
+    "publication_date": "Published the May 30, 2017 at 15:59",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/b7d4d5f6-ea88-496a-9760-bebe77e8d315.svg"
+    ],
+    "DE": "(ein Räucherarm)",
+    "AR": "(مبخرة)",
+    "EN": "(a censer)",
+    "FR": "(un encensoir)",
+    "times": [
+      "12th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "466 {4515} (ʿ-n-jḫt-nṯr)"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "860925 (ʿ-n-jḫt-nṯr)"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "transliteration": "ʿ-n(y)-ḥȝ.t",
+    "publication_date": "Published the Mar 25, 2020 at 15:58",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/c78289ab-15aa-4369-8d9f-3a33dd10b70c.svg"
+    ],
+    "DE": "(ein Räucherarm)",
+    "AR": "(مبخرة ما)",
+    "EN": "(a censer)",
+    "FR": "(un encensoir)",
+    "times": [
+      "25th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "28",
+    "transliteration": "ʿ-n(y)-Ḥr",
+    "publication_date": "Published the May 30, 2017 at 16:00",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/f7f7ef8e-cb30-40c1-abd1-5a7ee9c48710.svg",
+      "https://app.vega-lexique.fr/api/files/fd76359f-466e-4d97-9edd-ea5336a29c07.svg"
+    ],
+    "DE": "(ein Räucherarm)",
+    "AR": "(مبخرة)",
+    "EN": "(a censer)",
+    "FR": "(un encensoir)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "cf. I, 156, 7 (ʿ)"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "131"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.0595"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "74"
+      },
+      {
+        "label": "DendTrad III",
+        "value": "385"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "70"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ʿ…"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "34630"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "29",
+    "transliteration": "ʿ-n(y)-ḥtp",
+    "publication_date": "Published the May 30, 2017 at 16:03",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/0b9b9d79-d5ed-42af-b10c-ef88ed917f85.svg"
+    ],
+    "DE": "Träger",
+    "AR": "مسند",
+    "EN": "support",
+    "FR": "support",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "DendIndex X",
+        "value": "74"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "transliteration": "ȝw.t",
+    "publication_date": "Published the May 30, 2017 at 16:04",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/0c722f60-d76b-41b9-b36c-ed531814551b.svg",
+      "https://app.vega-lexique.fr/api/files/9afb4d57-b731-428a-b9d5-defa4f96711b.svg"
+    ],
+    "DE": "Länge, Dauer",
+    "AR": "طول ، مدة",
+    "EN": "length, span",
+    "FR": "longueur, durée",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 4, 15-5, 1"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "3"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "1"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "2"
+      },
+      {
+        "label": "Kahl, FWb",
+        "value": "1"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 3"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "2"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "3 {86-87}, {90}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "6 {86-87}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0017"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "1"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "1 (ȝw)"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 7a"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝw"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "37"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Crum, CD",
+        "value": "533a"
+      },
+      {
+        "label": "Westendorf, KHWb2",
+        "value": "cf. 116 ; 483"
+      },
+      {
+        "label": "Černý, CED",
+        "value": "231"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "31",
+    "transliteration": "ȝwj-jb",
+    "publication_date": "Published the Sep 4, 2023 at 15:42",
+    "status": "validated",
+    "category": "Verb",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/c354fde5-3411-4665-8529-3df5cebcb54a.svg",
+      "https://app.vega-lexique.fr/api/files/a6d385b5-76c3-45a6-bbc9-12e65cddb702.svg"
+    ],
+    "DE": "sich freuen; frölich sein",
+    "AR": "انشرح ، ازدهر",
+    "EN": "to rejoice; to be joyful",
+    "FR": "se réjouir, s'épanouir",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "cf. I, 4, 5-9 (ȝwj)"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "cf. 2 (ȝw)"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "cf. 1-2 (ȝw)"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "cf. I, 3 (ȝw(j))"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "cf. 1-2 (ȝw)"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "4 {106}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "7-9 {106-107}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.0009 ; 79.0007"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "1"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "1-2"
+      },
+      {
+        "label": "DendTrad I",
+        "value": "235"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "357 (ȝwj) ; 357 (ȝwj-jb)"
+      },
+      {
+        "label": "DendTrad III",
+        "value": "341"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "459 (ȝwj) ; 459 (ȝwj-jb)"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 2a-3c et 5c (ȝwj-jb) "
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "1 (ȝw) ; 1-2 (ȝwj-jb)"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝwj…"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "53 ; 856467"
+      }
+    ],
+    "DEMOTIC AND COPTIC": [
+      {
+        "label": "Erichsen, DG",
+        "value": "cf. 57 (ʿw)"
+      },
+      {
+        "label": "Černý, CED",
+        "value": "cf. 231"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "32",
+    "transliteration": "ʿ-n(y)-ḥtr",
+    "publication_date": "Published the Oct 11, 2019 at 11:35",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/704b136b-4723-46ef-9d90-fd83988095e8.svg",
+      "https://app.vega-lexique.fr/api/files/3c441c6b-2d31-47ea-a574-8845520faa7f.svg"
+    ],
+    "DE": "Pferdegespann",
+    "AR": "كل ما رُبط بالخيل لجر العجلة",
+    "EN": "team of horses",
+    "FR": "attelage",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "cf. III, 200, 3 (ḥtr)"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "34640"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "transliteration": "ʿ-m-ḫt / ʿ-n-ḫt",
+    "publication_date": "Published the Oct 4, 2019 at 11:40",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/488e3c06-420c-44ec-8951-2c1356972bb1.svg",
+      "https://app.vega-lexique.fr/api/files/a0d2257e-8ad0-443b-b342-d9e0587dbffe.svg"
+    ],
+    "DE": "(ein Räucherarm)",
+    "AR": "(مبخرة)",
+    "EN": "(a censer)",
+    "FR": "(un encensoir)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "250 {4520} (ʿ-n-ḫt)"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "467 {4520} (ʿ-n-ḫt)"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Wd (s. v.)",
+        "value": "ʿ... (ʿ-m-ḫt)"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "transliteration": "ʿ-n(y)-Šw",
+    "publication_date": "Published the May 30, 2017 at 16:00",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/80226fee-5a2a-4baa-bcbd-1c43fd37fa89.svg"
+    ],
+    "DE": "(ein Räucherharm)",
+    "AR": "(مبخرة)",
+    "EN": "(a censer)",
+    "FR": "(un encensoir)",
+    "times": [
+      "20th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "35",
+    "transliteration": "ȝw.t-jb",
+    "publication_date": "Published the May 22, 2024 at 16:11",
+    "status": "validated",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/3422cc3b-67eb-4d16-8b9d-86411a1fe7ed.svg",
+      "https://app.vega-lexique.fr/api/files/f3211048-7484-45c8-8ec9-b39fef5d9304.svg"
+    ],
+    "DE": "Freude, Frölichkeit",
+    "AR": "الفرح ، السعادة ، انشراح القلب",
+    "EN": "joy",
+    "FR": "joie, bonheur, plénitude",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "cf. I, 4, 17-19 (ȝw.t)"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "cf. 3 (ȝw.t/ȝw)"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "cf. 1 (ȝw.t)"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "cf. 2 (ȝw.t)"
+      },
+      {
+        "label": "Kahl, FWb",
+        "value": "cf. 1 (ȝw.t)"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 3"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "cf. 2 (ȝw.t)"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "4 {108-109} ; 1582 {43056}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "9-10 {108-109}, {111}, {49368}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0018 ; 78.0011 ; 79.0009"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "1"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "2"
+      },
+      {
+        "label": "DendTrad I",
+        "value": "235"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "357-358"
+      },
+      {
+        "label": "DendTrad III",
+        "value": "341"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "459-460"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 7a-b"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "2"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝwt-jb"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "42 ; 43 ; 862843"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "36",
+    "transliteration": "ʿ-n(y)-Šw-Smsw",
+    "publication_date": "Published the May 30, 2017 at 16:17",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/16cf2bc3-f5ba-43d6-8489-ddcaae7c8786.svg"
+    ],
+    "DE": "(eine Lanze)",
+    "AR": "(رمح)",
+    "EN": "(a spear)",
+    "FR": "(une lance)",
+    "times": [
+      "26th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "856961"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "37",
+    "transliteration": "ʿ-n(y)-snṯr",
+    "publication_date": "Published the Oct 11, 2019 at 11:36",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/63f4548d-2950-4a1d-9055-e85c200b8e0c.svg",
+      "https://app.vega-lexique.fr/api/files/60624c6c-f084-4526-8ff9-ec3ce81fb317.svg"
+    ],
+    "DE": "Räucherarm",
+    "AR": "مبخرة",
+    "EN": "censer",
+    "FR": "(un encensoir)",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "cf. I, 156, 6 (ʿ)"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "467 {4523}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "34670"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "38",
+    "transliteration": "ʿ-ẖn / ʿẖn",
+    "publication_date": "Published the Mar 20, 2020 at 20:10",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/d68e2105-c72a-4d2b-8137-a07ec858af74.svg",
+      "https://app.vega-lexique.fr/api/files/3791a85d-38ee-4afe-bbd1-a074e69f2ed8.svg"
+    ],
+    "DE": "Wedel (zum Anfachen des Feuers)",
+    "AR": "مروحة يدوية ، مُزَود الشعلة",
+    "EN": "fire fan",
+    "FR": "éventail, attise-feu",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 226, 15 (ʿẖn)"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "250 {4521} (ʿ-ẖn [ʿẖn])"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "467 {4521} (ʿ-ẖn [ʿẖn])"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0541 (ʿ-ẖn) ; 77.0746 (ʿẖn)"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ẖn"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "40850 (ʿẖn) ; 850363 (ʿ-ẖnw)"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "39",
+    "transliteration": "ȝw.t-jb",
+    "publication_date": "Published the May 30, 2017 at 16:22",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/a1466cbe-28f3-4034-93ac-988d4ac4f923.svg",
+      "https://app.vega-lexique.fr/api/files/e0d97255-5fa6-4f81-8cb8-b0ee38a9eb37.svg"
+    ],
+    "DE": "Amulett, Pektorale",
+    "AR": "تميمة ، سلسلة للصدر",
+    "EN": "amulet, pectoral",
+    "FR": "amulette, pectoral",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "cf. I, 4, 20 (ȝw.t)"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "2"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "78.0012"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "2"
+      },
+      {
+        "label": "DendTrad IV",
+        "value": "460"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 7c"
+      },
+      {
+        "label": "DendTrad V-VI",
+        "value": "2"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝwt"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "44"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "40",
+    "transliteration": "ȝw.t-jb",
+    "publication_date": "Published the Feb 19, 2020 at 11:04",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/7f7e72c7-4487-4144-9927-fecd6f3d46d3.svg",
+      "https://app.vega-lexique.fr/api/files/8fc0f851-7d36-4b3c-b3cb-d4176ff7c1f6.svg"
+    ],
+    "DE": "Rauschrot",
+    "AR": "رهج الغار",
+    "EN": "realgar",
+    "FR": "réalgar",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 5, 1"
+      },
+      {
+        "label": "Grundriss 6",
+        "value": "3"
+      },
+      {
+        "label": "Grundriss 7",
+        "value": "3"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "2"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 3"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0019 ; 79.0010"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "45 ; 862843"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "41",
+    "transliteration": "ȝw.t / ȝw",
+    "publication_date": "Published the Apr 27, 2017 at 10:53",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/ce117ef7-91c2-49cd-b1c3-8ea530e0b6a2.svg",
+      "https://app.vega-lexique.fr/api/files/4de3ab43-323c-4271-83e7-c93be9d96cef.svg"
+    ],
+    "DE": "Altar",
+    "AR": "مذبح",
+    "EN": "altar",
+    "FR": "autel",
+    "times": [
+      "18th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 5, 13"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "40"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "transliteration": "ȝw.t / ȝw",
+    "publication_date": "Published the Mar 22, 2024 at 9:54",
+    "status": "validated",
+    "category": "Substantive",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/abb0c4db-f954-4f80-b8c3-4f0b4804f554.svg",
+      "https://app.vega-lexique.fr/api/files/26c695de-b329-4f19-8711-2de312a74c20.svg"
+    ],
+    "DE": "Spende; Darreichung; Trankopfer",
+    "AR": "عطاء ؛ قربان ؛ سكب سائل",
+    "EN": "gift; offering; libation",
+    "FR": "présent ; offrande ; libation",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 5, 2 (ȝw.t) ; I, 5, 3 (ȝw)"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "1"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "2-3"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 3"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "2"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "4 {105}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "7 {105}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.0021 ; 78.0013"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "1"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "2"
+      },
+      {
+        "label": "DendTrad II",
+        "value": "358 (ȝw.t) ; 358 (ȝw)"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 7c"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "ȝwt"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "39 ; 133900"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "43",
+    "transliteration": "ȝw.t-ʿ / ȝw-ʿ",
+    "publication_date": "Published the Apr 27, 2017 at 10:56",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/11af04d1-0416-492c-8810-bd325936d3c3.svg",
+      "https://app.vega-lexique.fr/api/files/29975454-a891-43f7-9bee-4e8b93497c2a.svg"
+    ],
+    "DE": "Spende; Darreichung",
+    "AR": "عطاء ؛ قربان",
+    "EN": "gift; offering",
+    "FR": "présent ; offrande",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "I, 5, 7"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "2"
+      },
+      {
+        "label": "Wilson, PL",
+        "value": "3"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "10 {115}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "46"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "44",
+    "transliteration": "ȝw.t-ḏr.t",
+    "publication_date": "Published the Apr 27, 2017 at 10:59",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/c132369a-669d-46ea-8613-740edee7d75d.svg",
+      "https://app.vega-lexique.fr/api/files/320957dd-6a75-4f99-93b4-3f3d4d5a6a22.svg"
+    ],
+    "DE": "Gabe",
+    "AR": "هدية",
+    "EN": "gift",
+    "FR": "présent, cadeau",
+    "times": [
+      "12th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "10 {49012}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "48"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "transliteration": "ȝwȝw",
+    "publication_date": "Published the May 30, 2017 at 16:25",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/ab5fb2e0-a2f1-4dfc-a957-1f9c041ab792.svg"
+    ],
+    "DE": "sehr länglich sein",
+    "AR": "أصبح طويلاً جداً",
+    "EN": "to be very long",
+    "FR": "se montrer très long",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "van der Molen, HDECT",
+        "value": "2"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "1-2 (ȝwȝw) ; 2 (ȝwȝw.tj)"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "856494 (ȝwȝw.tj) ; 858406 (ȝwȝw) "
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "transliteration": "ȝw",
+    "publication_date": "Published the Apr 27, 2017 at 11:00",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/2045d9be-5c0f-4208-b394-7826d17101d9.svg"
+    ],
+    "DE": "Verstorbener",
+    "AR": "متوفى، ميت",
+    "EN": "dead, deceased",
+    "FR": "défunt, mort",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "2 {80}"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "5 {80}"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "79.0013"
+      },
+      {
+        "label": "LGG",
+        "value": "I, 7c"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "47",
+    "transliteration": "ȝw",
+    "publication_date": "Published the Apr 27, 2017 at 11:01",
+    "status": "problematic",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/8ac49f99-95f4-4517-a545-e89a23c1bccd.svg"
+    ],
+    "DE": "(Bedeutung unbekannt)",
+    "AR": "(معنى غير معروف)",
+    "EN": "(meaning unknown)",
+    "FR": "(sens inconnu)",
+    "times": [
+      "17th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "10 {121}"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "transliteration": "ȝw",
+    "publication_date": "Published the May 13, 2020 at 11:45",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/f13aff96-ec0d-4ca0-a757-e1b072f94264.svg"
+    ],
+    "DE": "sterben",
+    "AR": "ماتَ",
+    "EN": "to die",
+    "FR": "mourir",
+    "times": [
+      "12th dyn",
+      "13th dyn"
+    ],
+    "comment": [],
+    "author": "",
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "858947"
+      }
+    ],
+    "FURTHER REFERENCES": []
+  },
+  {
+    "id": "49",
+    "transliteration": "rwd",
+    "publication_date": "Published the Mar 13, 2018 at 11:30",
+    "status": "validated",
+    "category": "",
+    "image": [
+      "https://app.vega-lexique.fr/api/files/a620981d-7ed3-43c7-8508-7049c925b71a.svg",
+      "https://app.vega-lexique.fr/api/files/44d396d4-9287-46a0-9f6c-d1a7e8bfb654.svg"
+    ],
+    "DE": "Treppe, Terrasse, Podium",
+    "AR": "سلم ، شرفة ، مدرج",
+    "EN": "stairway, raised terrace, platform",
+    "FR": "escalier, terrasse, estrade",
+    "times": [],
+    "comment": [],
+    "author": "",
+    "DICTIONARIES": [
+      {
+        "label": "Wb",
+        "value": "II, 409, 9-15 ; II, 462 (rd)"
+      },
+      {
+        "label": "Faulkner, CD",
+        "value": "148 (rwdw)"
+      },
+      {
+        "label": "Lesko, DLE2",
+        "value": "I, 269 (rwḏw)"
+      },
+      {
+        "label": "van der Molen, HDECT",
+        "value": "277"
+      },
+      {
+        "label": "Hannig, ÄWb I",
+        "value": "706 {17680-17681}, {17685} (rwdw)"
+      },
+      {
+        "label": "Hannig, ÄWb II",
+        "value": "1463-1464 {17680}, {17682-17683}, {49028} (rwdw)"
+      }
+    ],
+    "LEXICONS AND REGULAR INDEXES": [
+      {
+        "label": "Meeks, AnLex",
+        "value": "77.2350 ; 78.2384 ; 79.1733"
+      },
+      {
+        "label": "Borghouts, van der Plas, CTWI",
+        "value": "181 (rwd ; rwd-wr)"
+      },
+      {
+        "label": "DendIndex X",
+        "value": "316"
+      },
+      {
+        "label": "LGG",
+        "value": "IV, 659b"
+      },
+      {
+        "label": "Wd (s. v.)",
+        "value": "rwd ; rd"
+      },
+      {
+        "label": "TLA (Lemma n°)",
+        "value": "93730 ; 852761 (rwd-wr) "
+      }
+    ],
+    "FURTHER REFERENCES": []
+  }
+]

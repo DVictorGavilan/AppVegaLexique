@@ -47,6 +47,7 @@ def hover_element(driver: WebDriver, element: WebElement) -> None:
 # Configuración básica del logging para mostrar mensajes por consola
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
+
 def start_browser():
     """Starts and returns a Chrome instance with custom settings."""
     logging.info("Iniciando el navegador...")
@@ -57,6 +58,7 @@ def start_browser():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     logging.info("Navegador iniciado correctamente.")
     return driver
+
 
 def accept_cookies(driver: WebDriver, xpath: str, timeout: int = 10) -> None:
     """

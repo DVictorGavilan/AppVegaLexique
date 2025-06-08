@@ -2,7 +2,7 @@ import time
 import json
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-from appvega.selenium_utils import start_browser, hover_element
+from appvega.utils import start_browser, hover_element
 from appvega import constants
 
 

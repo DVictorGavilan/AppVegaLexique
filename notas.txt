@@ -17,23 +17,26 @@ Te adjunto en la pestaña "output version 2" del Excel, 300 registros de cómo q
 Si te encaja la solución y
 
 
-Okey Eric, yo creo que lo ideal sería primero definir la estructura del excel que vas a recibir, si?
+Hola Eric!
 
-Partiendo de la propuesta inicial, te propongo entregarte un excel con las siguientes columnas:
+Creo que lo ideal sería empezar por definir la estructura del Excel que te voy a entregar, ¿te parece bien?
+
+Partiendo de la propuesta inicial, te propongo que el archivo contenga las siguientes columnas:
  - ID: id único de la palabra asignado por
  - Transliteración: representación latina de la palabra
  - Fecha de Publicación: fecha de publicación de la palabra en VegaLexique
  - Estado de Verificación: estado asignado por VegaLexique (validated, problematic y wrong)
  - Categoría Gramatical*: categoría gramatical asignada por VegaLexique
- - Ortografía Jeroglífica: representación original de la palabra. Estará en formato imagen y podrá haber más de una para cada palabra
+ - Ortografía Jeroglífica: lista de representaciones originales de la palabra. Estará en formato imagen, ¿debería incluirse en la propia columna o en un archivo externo?
  - Traducción EN: traducción en inglés de la palabra
  - Traducción FR: traducción en francés de la palabra
+ - Cronología*: lista de periodos donde aparece la palabra
+ - Comentario*: lista de comentarios sobre la palabra en cuestión
  - Diccionario*: lista de diccionarios a los que hace referencia junto con su valor
  - Lexicons y Regular Indexes*: lista de lexicones e índices regulares junto con su valor
  - Further References*: lista de otras referencias junto con su transliteración
- - Comentario*: lista de comentarios sobre la palabra en cuestión
- - Cronología*: lista de periodos donde aparece la palabra
- 
+ - Autor: autor de la entrada
+
 He añadido un * en todas las columnas que podrían llegar vacías si no están informadas en VegaLexique
 
 La única duda que me queda Eric es sobre este comentario que haces:
@@ -41,4 +44,8 @@ La única duda que me queda Eric es sobre este comentario que haces:
 osea en este caso lo que esta entre parentesis deveria salir en la fuente de transliteración (usan la Gentium Plus) no se si esta se podria "substituir" por la de transliteración de toda la vida http://www.egiptomania.com/fuentes/
 
 No termino de entender qué habría que hacer, ¿me podrías ayudar a entenderlo?
+
+Quedo atento a tus comentarios para terminar de concretar estos últimos puntos
+
+Un saludo! :)
 
