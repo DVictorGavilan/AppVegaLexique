@@ -13,7 +13,6 @@ def hover_info(web_driver):
 
 def click_on_print(web_driver):
     print_button_xpath = '//div[@class="menu"]//button[contains(.,"Print")]'
-    time.sleep(2)
     print_button = web_driver.find_element(By.XPATH, print_button_xpath)
     print_button.click()
 
@@ -115,24 +114,24 @@ def get_word_entry_author(web_driver):
 def download_data(target_url):
     driver = start_browser()
     driver.get(target_url)
-    time.sleep(1)
+    time.sleep(0.5)
 
     times = []
     try:
         driver.find_element(by=By.CLASS_NAME, value="periods-overview").click()
+        time.sleep(0.25)
         times = get_times(driver)
         ActionChains(driver).send_keys(Keys.ESCAPE).perform()
-        time.sleep(1)
     except Exception as e:
         pass
 
     hover_info(driver)
+    time.sleep(0.25)
     publication_date = get_publication_date(driver)
     id_ = get_word_id(driver)
-    time.sleep(1)
 
     click_on_print(driver)
-    time.sleep(1)
+    time.sleep(0.25)
     data = {
         "id": id_,
         "transliteration": get_word_transliteration(driver),

@@ -10,9 +10,10 @@ def main(target_url):
 
 if __name__ == "__main__":
     vega_raw = []
-    initial = 12100
-    final = 12200
+    initial = 3000
+    final = 4000
     for i in range(initial, final):
+        print(i)
         try:
             vega_raw.append(main(f"https://app.vega-lexique.fr/?entries=w{i}"))
         except Exception as e:

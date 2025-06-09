@@ -1,4 +1,6 @@
 import logging
+import tempfile
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.webdriver import WebDriver
@@ -54,6 +56,9 @@ def start_browser():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_argument("--start-maximized")
+
+    unique_profile = tempfile.mkdtemp()
+    chrome_options.add_argument(f"--user-data-dir={unique_profile}")
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     logging.info("Navegador iniciado correctamente.")
