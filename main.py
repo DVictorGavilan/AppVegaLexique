@@ -10,8 +10,8 @@ def main(target_url):
 
 if __name__ == "__main__":
     vega_raw = []
-    initial = 3000
-    final = 4000
+    initial = 8000
+    final = 17000
     for i in range(initial, final):
         print(i)
         try:
